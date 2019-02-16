@@ -1,0 +1,4 @@
+builder = msim
+target_dir = .build
+
+vhdl work and_gate.vhd -2002
