@@ -2,3 +2,5 @@ builder = msim
 target_dir = .build
 
 vhdl work and_gate.vhd -2002
+vhdl work bin_counter.vhd -2002
+vhdl work bin_counter_tb.vhd -2002
