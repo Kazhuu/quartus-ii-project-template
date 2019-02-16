@@ -87,7 +87,7 @@ refer to the applicable agreement for further details.
 	(output)
 	(rect 864 312 1040 328)
 	(text "OUTPUT" (rect 1 0 39 10)(font "Arial" (font_size 6)))
-	(text "c[25]" (rect 90 0 115 13)(font "Intel Clear" ))
+	(text "c[25..22]" (rect 90 0 133 13)(font "Intel Clear" ))
 	(pt 0 8)
 	(drawing
 		(line (pt 0 8)(pt 52 8))
